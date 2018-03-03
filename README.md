@@ -1,10 +1,10 @@
 ### To run the Application
 1. unzip the folder and run either of the following
-  > npm install
+  > * npm install
 
-  > npm run build
-  
-  > npm run dev
+  > * npm run build
+
+  > * npm run dev
 
  or
 
