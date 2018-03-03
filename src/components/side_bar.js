@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import ChatHead from './chat_head'
 import UsersList from '../containers/users_list'
 
