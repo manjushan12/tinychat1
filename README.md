@@ -2,7 +2,7 @@
 1. unzip the folder and run either of the following
   > npm install
   > npm run build
-  > npm start
+  > npm run dev
 
  or
 
