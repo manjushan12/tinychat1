@@ -39,3 +39,9 @@
 5. Provide a way to change the status of the user from 'Busy'
 6. Add websocket-io to the client, to listen for real time messages from the server and update the messages accordingly and to post data to, that the server can receive
 7. Provide a way to edit a previously sent message
+
+##### Testing on Browsers
+
+* The app is tested and verified on Firefox and Chrome Browsers on the desktop.
+
+* The app is not expected to work on mobile responsive designs. It has not been designed or tested for mobile versions.
